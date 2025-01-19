@@ -1,9 +1,9 @@
-import Image from "next/image";
+import LinkTree from "@/components/LinkTree";
 
 export default function Home() {
   return (
     <div>
-      <h1>BUM BUM BAMBI</h1>
+      <LinkTree />
     </div>
   );
 }
