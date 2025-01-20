@@ -21,59 +21,60 @@ export default function LinkTree() {
       <a target="_blank" href="https://bsky.app/profile/jkbelcher.bsky.social" className="buttonWrapper">
         <img  src="./assets/images/icon_blue-sky.svg" className="imgButton icon"/>
         <div className="textButtonWrapper">
-          <p className="textButton">@bumbum_bumbi</p>
+          <p className="textButton">My BlueSky Profile</p>
         </div>
       </a>
     
       <a target="_blank" href="https://www.instagram.com/bumbum_bambi/" className="buttonWrapper">
         <img  src="./assets/images/icon_instagram.svg" className="icon imgButton"/>
         <div className="textButtonWrapper">
-          <p className="textButton">@bumbum_bumbi</p>
+          <p className="textButton">My Instagram Profile</p>
+        </div>
+      </a>
+
+      <a target="_blank" href="https://www.ashemaletube.com/profiles/3072250/" className="buttonWrapper">
+        <img  src="./assets/images/icon_ashemaletube.svg" className="icon imgButton"/>
+        <div className="textButtonWrapper">
+          <p className="textButton">My Ashemaletube Channel</p>
+        </div>
+      </a>
+
+      <a target="_blank" href="https://www.tranny.one/user/522911/" className="buttonWrapper">
+        <img  src="./assets/images/icon_tranny.svg" className="icon imgButton"/>
+        <div className="textButtonWrapper">
+          <p className="textButton">My Tranny.one Channel</p>
         </div>
       </a>
     
-      <a target="_blank" href="https://www.instagram.com/bumbum_bambi/" className="buttonWrapper">
+      <a target="_blank" href="https://xhamster.com/users/bumbumbambi" className="buttonWrapper">
         <img  src="./assets/images/icon_xHamster.svg" className="imgButton icon"/>
         <div className="textButtonWrapper">
-          <p className="textButton">@bumbumbumbi</p>
+          <p className="textButton">My Xhamster Channel</p>
         </div>
       </a>
-    
-      <a target="_blank" href="https://www.instagram.com/bumbum_bambi/" className="buttonWrapper">
+
+      <a target="_blank" href="https://www.pornhub.com/users/eefbde5" className="buttonWrapper">
         <img src="./assets/images/icon_pornhub.svg" className="imgButton icon"/>
         <div className="textButtonWrapper">
-          <p className="textButton">@bumbum_bumbi</p>
+          <p className="textButton">My PornHub Channel</p>
         </div>
       </a>
+ 
     
       <a target="_blank" href="https://www.instagram.com/bumbum_bambi/" className="buttonWrapper">
         <img  src="./assets/images/icon_x-videos.svg" className="imgButton icon"/>
         <div className="textButtonWrapper">
-          <p className="textButton">@bumbum_bumbi</p>
+          <p className="textButton">My X video Channel</p>
         </div>
       </a>
-    
-      <a target="_blank" href="https://www.instagram.com/bumbum_bambi/" className="buttonWrapper">
-        <img  src="./assets/images/icon_x.svg" className="imgButton icon"/>
-        <div className="textButtonWrapper">
-          <p className="textButton">@bumbum_bumbi</p>
-        </div>
-      </a>
-    
-    
-      <a target="_blank" href="https://www.instagram.com/bumbum_bambi/" className="buttonWrapper icon">
+
+      <a target="_blank" href="https://hypnotube.com/my-profile" className="buttonWrapper">
         <img  src="./assets/images/icon_HT.svg" className="imgButton icon"/>
         <div className="textButtonWrapper">
-          <p className="textButton">@bumbumbumbi</p>
+          <p className="textButton">My Hypnotube Channel</p>
         </div>
       </a>
-    
-      <a target="_blank" href="https://www.instagram.com/bumbum_bambi/" className="buttonWrapper">
-        <img  src="./assets/images/icon_onlyfans.svg" className="imgButton icon"/>
-        <div className="textButtonWrapper">
-          <p className="textButton">@bumbumbumbi</p>
-        </div>
-      </a>
+
     
     </main>
 
