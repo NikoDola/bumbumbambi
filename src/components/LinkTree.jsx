@@ -15,7 +15,24 @@ export default function LinkTree() {
         <img className="logo" src="./assets/branding/bumbumbambi_logo-icon_color.svg"/>
       </div>
       <img className="companyName" src="./assets/branding/bumbumbambi_text-white.svg"/>
-    
+      <h2 className='text-2xl text-center mt-4 mb-4'><b>**Welcome to Bum Bum Bambi’s Playground!**</b></h2>
+    <p className='w-1/2 m-auto text-center'> 
+
+—
+
+
+
+Hello there, fabulous visitors! I’m Bum Bum Bambi, your guide to the world of tantalizing exploration and unapologetic fun. Here, we embrace our quirks and celebrate the art of pleasure. 
+
+Dive into a space where curiosity reigns and boundaries are meant to be pushed. Whether you’re here to learn, share, or simply indulge in your wildest fantasies, you’ve found the right place. 
+
+Join me on this exciting journey, and let’s explore together! 
+
+Stay fabulous,  
+Bum Bum Bambi
+
+— 
+</p>
     
     <main className="main">
       <a target="_blank" href="https://bsky.app/profile/jkbelcher.bsky.social" className="buttonWrapper">
